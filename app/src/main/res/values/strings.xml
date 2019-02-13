@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Go Food Zein</string>
+    <string name="action_settings">Settings</string>
+    <string name="data_food">Data Food</string>
+    <string name="loading">Loading . . .</string>
+    <string name="confir">Confirmation</string>
+    <string name="sure">Are You Sure for?</string>
+    <string name="isEmpty">Tidak boleh kosong!!</string>
+    <string name="isMatch">Password tidak match</string>
+    <string name="minimum">Minimum 6 karakter!!!</string>
+    <string name="legth">Harus sama!!</string>
+</resources>
